@@ -1,0 +1,14 @@
+{
+  "a60950c7a6e3f7a8247b34035d0a98cb0d11f2d04ba5fa9fd17e1065": {
+  "stake_change": ["https://discordapp.com/api/webhooks/..."],
+  "delegator_change": ["https://discordapp.com/api/webhooks/..."],
+  "minted_block": ["https://discordapp.com/api/webhooks/...", "https://discordapp.com/api/webhooks/..."],
+  "staking_rewards": ["https://discordapp.com/api/webhooks/..."]
+},
+  "52e22df52e90370f639c99f5c760f0cd67d7f871cd0d0764fae47cd9": {
+  "stake_change": ["https://discordapp.com/api/webhooks/..."],
+  "delegator_change": [],
+  "minted_block": [],
+  "staking_rewards": []
+  }
+}
