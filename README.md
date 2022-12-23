@@ -4,7 +4,7 @@ updates to a discord server via a webhook. This bot is meant to increase transpa
 and delegators.
 
 ## Examples
-All the annoncements from the bot will in real-time, here are some examples of what kind of announcements the bot will make:
+All the annoncements from the bot will in real-time, here are some examples of what kind of announcements the bot will make:\
 ![new_block.png](images%2Fnew_block.png)\
 Announcement of new block with block information
 
