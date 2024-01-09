@@ -29,9 +29,7 @@ running either locally or remotely.
 
 
 ## Usage
-In this section, we explain how to deploy and run TECH-bot, however, if you do not have the
-necessary infrastructure, you can contact me via [twitter](https://twitter.com/CardanoTech)
-or [discord](https://discord.com/invite/kYwMxc2pGz) to get the bot implemented on my server.
+In this section, we explain how to deploy and run TECH-bot.
 
 ### Installing dependencies
 The TECH-bot application is dependent on Python3, the package dependencies can be 
