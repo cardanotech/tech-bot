@@ -4,7 +4,7 @@ updates to a discord server via a webhook. This bot is meant to increase transpa
 and delegators.
 
 ## Examples
-All the annoncements from the bot will in real-time, here are some examples of what kind of announcements the bot will make:\
+All the announcements from the bot will be in real-time, here are some examples of what kind of announcements the bot will make:\
 ![new_block.png](images%2Fnew_block.png)\
 Announcement of new block with block information
 
@@ -12,10 +12,10 @@ Announcement of new block with block information
 Announcement of staking rewards paid out
 
 ![joining_delegator.png](images%2Fjoining_delegator.png)\
-Announcement of joining dalegator
+Announcement of joining delegator
 
 ![leading_delegator.png](images%2Fleading_delegator.png)\
-Announcement of leaving dalegator
+Announcement of leaving delegator
 
 ![added_stake.png](images%2Fadded_stake.png)\
 Announcement of increasing stake
@@ -24,12 +24,12 @@ Announcement of increasing stake
 Announcement of decreasing stake
 
 ## Requirements
-This bot requires to a synced version of [cardano-db-sync](https://github.com/input-output-hk/cardano-db-sync)
-running either locally or remote.
+This bot requires a synced version of [cardano-db-sync](https://github.com/input-output-hk/cardano-db-sync)
+running either locally or remotely.
 
 
 ## Usage
-In this section we explain how to deploy and run TECH-bot, however, if you do not have the
+In this section, we explain how to deploy and run TECH-bot, however, if you do not have the
 necessary infrastructure, you can contact me via [twitter](https://twitter.com/CardanoTech)
 or [discord](https://discord.com/invite/kYwMxc2pGz) to get the bot implemented on my server.
 
